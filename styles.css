@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.main-container{
+}
+
+
+.content, h1, p {
+  margin: 0 auto;
+}
+
+.content, .qr-image{
+  border-radius: 15px;
+}
+
+.content{
+  background-color: white;
+  padding: 25px;
+  width: 40vh;
+  position: relative;
+  top: 90px;
+}
+
+.qr-image, h1{
+ width: 100%;
+}
+
+h1{
+  font-size: 1.5rem;
+  margin: 20px 0;
+}
+
+p{
+  width: 85%;
+  opacity: 70%;
+}
+
+.attribution{
+  margin-top: 100px;
+}
